@@ -89,7 +89,8 @@ A passionate Engineer from **UGANDA** | Open to **collaboration and learning new
 
 ## ⚡️ Where to Find Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/rajesh-jadhav-73643a2b3/](https://www.linkedin.com/in/rajesh-jadhav-73643a2b3?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rajesh-jadhav-73643a2b3?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+
 [![Gmail Badge](https://img.shields.io/badge/-jadxur@gmail.com-c14438?style=flat&logo=gmail&logoColor=white&link=mailto:jadxur@gmail.com)](mailto:jadxur@gmail.com)
 
 ---
