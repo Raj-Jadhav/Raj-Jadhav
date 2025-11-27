@@ -29,7 +29,9 @@ A passionate Engineer from **UGANDA** | Open to **collaboration and learning new
 ### Tools & Platforms
 <a href="https://www.unrealengine.com/" target="_blank"><img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="Unreal Engine" width="42" height="42"/></a>
 <a href="https://www.linux.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="42" height="42"/></a>
-<a href="https://www.apachefriends.org/index.html" target="_blank"><img src="https://www.vectorlogo.zone/logos/xampp/xampp-icon.svg" alt="XAMPP" width="42" height="42"/></a>
+<a href="https://www.apachefriends.org/index.html" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xampp/xampp-original.svg" alt="XAMPP" width="42" height="42"/>
+</a>
 <a href="https://www.cisco.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/cisco/cisco-icon.svg" alt="Cisco" width="42" height="42"/></a>
 <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="42" height="42"/></a>
 <a href="https://www.virtualbox.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/virtualbox/virtualbox-icon.svg" alt="VM" width="42" height="42"/></a>
