@@ -20,6 +20,10 @@ A passionate Engineer from **UGANDA** | Open to **collaboration and learning new
 <a href="https://www.cisco.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/cisco/cisco-icon.svg" alt="Cisco" width="42" height="42"/></a>
 <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="42" height="42"/></a>
 <a href="https://www.virtualbox.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/virtualbox/virtualbox-icon.svg" alt="VM" width="42" height="42"/></a>
+<a href="https://www.java.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="42" height="42"/>
+</a>
+
 
 ---
 
@@ -70,8 +74,8 @@ A passionate Engineer from **UGANDA** | Open to **collaboration and learning new
 
 ## ⚡️ Where to Find Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rajesh-jadhav-73643a2b3/)
-[![Gmail Badge](https://img.shields.io/badge/-raj@example.com-c14438?style=flat&logo=gmail&logoColor=white&link=mailto:raj@example.com)](mailto:raj@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/rajesh-jadhav-73643a2b3/](https://www.linkedin.com/in/rajesh-jadhav-73643a2b3?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app))
+[![Gmail Badge](https://img.shields.io/badge/-jadxur@gmail.com-c14438?style=flat&logo=gmail&logoColor=white&link=mailto:jadxur@gmail.com)](mailto:jadxur@gmail.com)
 
 ---
 
